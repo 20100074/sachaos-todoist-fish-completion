@@ -1,9 +1,10 @@
 
 # todoist by sachaos
+# https://github.com/sachaos/todoist
 # fish completion file based on todoist version 0.15.0
 #
-# this completion file was originally created by 20100074.
-# Last Modified Date: 2021-03-18 16:12 (JST)
+# this completion file was originally created by reishoku.
+# Last Modified Date: 2023-07-27 21:26 (JST)
 
 complete -f -c todoist -n '__fish_no_arguments' -s "v" -l "version" -d "print version"
 complete -f -c todoist -n '__fish_no_arguments' -s "h" -l "help" -d "show help"
